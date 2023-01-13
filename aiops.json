@@ -23,13 +23,6 @@
         "Deliverables": [
             "D1",
             "D2"
-        ],
-        "Scope": [
-            "In: abc",
-            "Out: abc"
-        ],
-        "Use cases": [
-            "Assessing Service Impact From Change to reduce noise, understand and prioritize work based on service impact"
         ]
     },
     "Description": {
