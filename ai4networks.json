@@ -44,6 +44,9 @@
     ],
     "Results": [
       "The prototype to be developed will serve to experiment with various architecture configurations, derive latency and bandwidth constraints, and explore how high levels of reliability and security can be achieved."
+    ],
+    "KPI": [
+      "Response time < 100ms."
     ]
   },
   "Milestones": {
