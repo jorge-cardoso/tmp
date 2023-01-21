@@ -36,6 +36,17 @@
 + **KPI**
 	+ Response time < 100ms.
 
+
+# Results
+
++ Algorithm
+	+ Hard drive failure prediction
++ Performance
+	+ Precision improved from 63% to 92%  
++ Impact
+	+ Reduction on 5% of HUAWEI CLOUD failures impacting colleagues  
+
+
 # Execution
 ## Milestones
 
@@ -77,3 +88,5 @@
        + [&Demo, @j00760260, %90] PoC showing observability analytics
    + *Risks* 
        + No risk
+
+
