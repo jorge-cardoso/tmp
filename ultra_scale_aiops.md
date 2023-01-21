@@ -2,7 +2,7 @@
 
 + Project name
 	+ AI for Project Management 
-+ Stakeholder
++ Stakeholders
 	+ Jane Osborn @j00000001
 + Team
 	+ Lilly Koch @l00000002, Gillian Petty @g00000002, Abigayle Moran @a00000003
