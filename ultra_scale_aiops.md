@@ -7,16 +7,16 @@
 + Team
 	+ Lilly Koch @l00000002, Gillian Petty @g00000002, Abigayle Moran @a00000003
 	+ Frederick Martin @f00000004, Anton Chambers @a00000005, Byron Compton @b00000006 
-+ Target Phase: `PoC`
 + Chat rooms
 	+ AI4PM: Local Berlin 
 	+ AI4PM: Global Team
-+ Cloud storage: [Link](https://dropbox.com/b/52f3a0a66a90992b62d4aa643a74e2f1)
-+ Schedule
++ Cloud storage: 
+	+ https://dropbox.com/b/52f3a0a66a90992b62d4aa643a74e2f1
++ Duration
 	+ `15.03.2023` -- `15.03.2024`
 + Deliverables
-	+ D1
-	+ D2    
+	+ D1. Tool/Library to predict the failrue of hardrives 
+	+ D2. Powerpoint report with tool design and evaluation in production   
 
 # Description
 
