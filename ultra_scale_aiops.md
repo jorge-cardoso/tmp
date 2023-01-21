@@ -11,7 +11,7 @@
 + Chat rooms
 	+ AI4PM: Local Berlin 
 	+ AI4PM: Global Team
-+ Cloud storage: [Link](https://onebox.huawei.com/p/52f3a0a66a90992b62d4aa643a74e2f1)
++ Cloud storage: [Link](https://dropbox.com/b/52f3a0a66a90992b62d4aa643a74e2f1)
 + Schedule
 	+ `15.03.2023` -- `15.03.2024`
 + Deliverables
@@ -64,16 +64,16 @@
 ## Sprints
 ### $Jan 2023
 
-+ 23.01.2023
-	+ *Status*
-		+ [&System_Design, @j00760260, %75] Design the system to be integrated into the CAD system
-		+ [&Demo, @j00760260, %90] PoC showing observability analytics
-	+ *Risks* 
-		+ No risk
++ $23.01.2023
+    + *Status*
+        + [&System_Design, @j00760260, %75] Design the system to be integrated into the CAD system
+        + [&Demo, @j00760260, %90] PoC showing observability analytics
+    + *Risks* 
+        + No risk
  
- + 16.01.2023
-	+ *Status*
-		+ [&PoC, @j00760260, %90] PoC showing observability analytics",
-		+ [&Demo, @j00760260, %90] PoC showing observability analytics"
-	+ *Risks* 
-		+ No risk
++ $16.01.2023
+   + *Status*
+       + [&PoC, @j00760260, %90] PoC showing observability analytics
+       + [&Demo, @j00760260, %90] PoC showing observability analytics
+   + *Risks* 
+       + No risk
