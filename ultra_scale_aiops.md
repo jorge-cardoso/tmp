@@ -1,7 +1,7 @@
 # Overview
 
 + Project name
-	+ AI for Project Management 
+	+  AI for Project Management 
 + Stakeholders
 	+ Jane Osborn @j00000001
 + Team
@@ -15,13 +15,13 @@
 + Duration
 	+ `15.03.2023` -- `15.03.2024`
 + Deliverables
-	+ D1. Tool/Library to predict the failrue of hardrives 
+	+ D1. Tool/Library to predict the failure of hardrives 
 	+ D2. Powerpoint report with tool design and evaluation in production   
 
 # Description
 
 + **Goal**
-	+ Develop a PoC which demonstrated the benefits of Edge AI w.r.t. latency, response time and bandwidth
+	+ Develop a PoC which demonstrated the benefits of Quantum computing w.r.t. latency, response time and bandwidth
 + **Background**
 	+ In recent years, cloud computing has become a central part of the AI evolution. To better address requirements, businesses are becoming aware of the need to bring the technology closer to customers. Thus, Edge AI is emerging as a solution that uses ML to process data generated at the local level. 
 + **Problem**
@@ -44,22 +44,12 @@
 + Performance
 	+ Precision improved from 63% to 92%  
 + Impact
-	+ Reduction on 5% of HUAWEI CLOUD failures impacting colleagues  
+	+ Reduction on 5% of HUAWEI CLOUD failures impacting colleagues
++ Report
+	+ https://dropbox.com/b/52f3a0a66a90992b62d4aa643a74e2f1
 
 
 # Execution
-## Milestones
-
-+ M1: First PoC / Requirements / Developments / Go Live
-	+ Date: `15.03.2023`
-	+ Description
-		+ Integration technology with RoboArtisan service as a Skill App
-		+ End-to-end demo of robot following a group of similar persons
-		+ KPI dashboard with FPS, qps, etc. for Adaptive Cloud-Edge Scheduling
-	+ Status: Done
-	+ Deliverables
-		+ D1
-
 ## Tasks
 
 + &Literature_Review: [&Research] Review literature of log management systems
